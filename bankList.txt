@@ -1,0 +1,5 @@
+this is the list of banks.
+
+1. Bank of Baroda
+2. Kotak Mahindra Bank
+3. HDFC Bank
